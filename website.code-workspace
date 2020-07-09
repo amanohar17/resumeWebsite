@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\omniefoodAJAY"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\blogPost"
+		},
+		{
+			"path": "..\\Omnifood - After Section 7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "resumeWebsite"
+	}
+}

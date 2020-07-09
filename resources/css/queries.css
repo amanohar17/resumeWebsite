@@ -1,0 +1,174 @@
+
+/* big tablet */
+@media only screen and (max-width: 1200px){
+    .hero-text-box{
+        width: 100%;
+        padding: 0 2%;
+    }
+    .row{ padding: 0 2%;}
+}
+
+/*small phones to tablets*/
+@media only screen and (max-width: 1023px){
+    body{font-size: 18px;}
+    section {padding:  60px 0;}
+    .long-copy {
+        width: 80%;
+        margin-left: 10%;
+    }
+    .steps-box{ margin-top: 10px;}
+    .works-steps { margin-bottom: 40px;}
+    .works-steps:last-of-type {margin-bottom: 60px;}
+
+    .app-screen {width: 50%;}
+
+    .icon-small { 
+        width: 17px;
+        margin-right: 5px;
+    }
+    .city-feature {font-size: 90%;}
+
+    .plan-box {
+        width: 100%;
+        margin-left: 0%;
+    }
+
+    .plan-price {font-size:250% ;}
+    .contact-form {width: 80%;}
+
+    .expImg {
+        margin-top: 50px;
+        height: 180px;
+        border-radius: 50%;
+        border: 2px solid #333;
+        width: auto;
+        float: left;
+    }
+}
+
+/*small phones to tablets*/
+@media only screen and (max-width: 767px){
+    body {font-size: 16px;}
+    section {padding: 30px 0;}
+    .row, .hero-text-box{  padding: 0 4%;}
+    .col {
+        width: 100%;
+        margin: 0 0 4% 0%;    
+    }
+
+    .main-nav {display: none;}
+    .mobile-nav-icon{display: inline-block;}
+
+    .main-nav {
+        float: left;
+        margin-top: 35px;
+        margin-left: 25px;
+    }
+
+    .main-nav li {
+        display: block;
+    }
+
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 5px 0;
+        font-size: 100%;
+    }
+
+    
+    .sticky .main-nav {margin-top: 15px;}
+
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited{padding: 10px 0;}
+    .sticky .mobile-nav-icon i{margin-top: 10px;}
+    .sticky .mobile-nav-icon i{color: #555;}
+
+    .sticky .logo{display: none;}
+    .sticky .logo-black {display: block;}
+
+    h1 {font-size: 100%;}
+    h2 {font-size: 150%;}
+
+
+    .long-copy {
+        width: 100%;
+        margin-left: 8%;
+    }
+
+    .app-screen {width: 35%;}
+
+    .steps-box:first-child{text-align: center;}
+
+    .works-step div {
+        height: 40px;
+        width: 40px;
+        margin-right: 15px;
+        padding: 4px;
+        font-size: 120%;
+    }
+
+    .works-steps { margin-bottom: 20px;}
+    .works-steps:last-of-type {margin-bottom: 20px;}
+
+    .image {
+        height: 150px;
+        width: auto;
+        margin-right: 40%;
+    }
+    .col1 {
+        padding-top: 15px;
+        margin-bottom: 15px;
+        width: 60%;
+        display: block;
+        text-align: center;
+        margin-left: 100px;
+    }
+
+    
+    .btn-full:link,
+    .btn-full:visited,
+    input[type=submit] {
+        background-color: #e67e22;
+        border: 1px solid #e67e22;
+        color: #fff;
+        margin-top: 50px;
+        margin-right: 40%;
+        margin-left: 40%;
+    }
+
+    .btn-ghost:link,
+    .btn-ghost:visited {
+        border: 1px solid #e67e22;
+        color: #e67e22;
+        margin-left: 35%;
+    }
+
+    .socials {
+        list-style: none;
+        text-align: center;
+        margin-top: 10px;
+        margin-right: 40%;
+    }
+
+    .expImg {
+        margin-top: 50px;
+        height: 150px;
+        border-radius: 50%;
+        border: 2px solid #333;
+        width: auto;
+        float: left;
+    }
+    
+    
+
+}
+/*small phones*/
+
+@media only screen and (max-width: 480px){
+    section{ padding: 25px;}
+    .contact-form {width: 100%;}
+}
+
+
