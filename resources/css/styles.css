@@ -506,6 +506,19 @@ input[type=checkbox] {
 
 *:focus {outline: none;}
 
+.form-messages {
+    width: 70%;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.success{background-color: rgba(33, 199, 33, 0.5);}
+
+.error{background-color: #fd1d1d86;}
+
 
 /* ----------------------------------------------- */
 /* FOOTER */

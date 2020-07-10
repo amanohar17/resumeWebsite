@@ -42,7 +42,7 @@
                     <li><a href="#about">About</a></li>
                     <li><a href="#experience">Experience</a></li>
                     <li><a href="#projects">Projects</a></li>
-                    <li><a href="#contact">Contact</a></li>
+                    <li><a href="#form">Contact</a></li>
 
                 </ul>
                 <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
@@ -309,13 +309,23 @@
         </section>
     </section>
     
-    <section class="section-form" id="contact">
+    <section class="section-form" id="form">
         <div class="row">
             <h2>I'm happy to hear from you</h2>
         </div>
         <div class="row">
-            <form method="post" action="#" class="contact-form">
-                <div class="row">
+            <form method="post" action="mailer.php" class="contact-form">
+                 <div class="row">
+                   <?php
+                    if($_GET['success']==1){
+                       echo "<div class=\"form-messages success\">Thank you! Your message has been sent!</div>"
+                    }
+                    if($_GET['success']==-1){
+                        echo "<div class=\"form-messages error\">Oops! Something went wrong. Please try again!</div>"
+                    }     
+                    ?>
+                 </div>
+                 <div class="row">
                     <div class="col span-1-of-3">
                         <label for="name">Name</label>
                     </div>
@@ -346,7 +356,7 @@
                 </div>
                 <div class="row">
                     <div class="col span-1-of-3">
-                        <label for="message">Drop us a line</label>
+                        <label for="message">What's on your mind?</label>
                     </div>
                     <div class="col span-2-of-3">
                        <textarea name="message" placeholder="Your message" id="" cols="30" rows="2"></textarea>
