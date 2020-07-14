@@ -142,7 +142,7 @@
     .btn-ghost:visited {
         border: 1px solid #e67e22;
         color: #e67e22;
-        margin-left: 35%;
+        margin-left: 40%;
     }
 
     .socials {
@@ -279,6 +279,11 @@
         margin-bottom: 30px;
         width: 100%;
         display: block;
+    }
+
+        
+    #wrapper:hover .text {
+        visibility:hidden;
     }
 }
 
