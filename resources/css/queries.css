@@ -286,14 +286,6 @@
         visibility:hidden;
     }
 
-    header {
-        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/africa-min.jpg);
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/africa-min.jpg);
-        background-size: cover;
-        background-position: center;
-        height: 100vh;
-        background-attachment: fixed;
-    }
 }
 
 
