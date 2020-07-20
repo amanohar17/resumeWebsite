@@ -314,7 +314,7 @@
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/test_800x600_380x285-min.png" alt="Example diagnostic test output for RAM" class="hover">
-                        <p class="text">Example diagnostic test output for EEPROM functionality</p>
+                        <p class="text">Example diagnostic test output for EEPROM</p>
                     </figure>
                 </li>
             </ul>
