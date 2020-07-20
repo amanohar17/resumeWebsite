@@ -277,12 +277,6 @@
         width: 100%;
         display: block;
     }
-
-        
-    #wrapper:hover .text {
-        visibility:hidden;
-    }
-
 }
 
 
