@@ -159,16 +159,6 @@
     .main-nav {display: none;}
     .mobile-nav-icon{display: inline-block;}
 
-    
-    header {
-        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/IMG_0330-min_1_480x800.jpg);
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/IMG_0330-min_1_480x800.jpg);
-        background-size: cover;
-        background-position: center center;
-        background-attachment: fixed;
-
-    }
-
     .logo-black{
         margin-top: 25px;
     }
