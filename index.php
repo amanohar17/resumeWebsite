@@ -255,7 +255,7 @@
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/schSE_800x600_380x285-min.png" alt="Schematic of Low Pass Filter Comparator" class="hover">
-                        <p class="text">Schematic of Low Pass Filter Comparator</p>
+                        <p class="text">Schematic of Low Pass Filter</p>
                     </figure>
                 </li>
                 <li>
@@ -281,13 +281,13 @@
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/proj5_1_380x285-min.png" alt="Low Pass Filter Comparator layout" class="hover">
-                        <p class="text">Low Pass Filter Comparator layout</p>
+                        <p class="text">Low Pass Filter layout</p>
                     </figure>
                 </li>
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/kds_380x285-min.png" alt="Screenshot of the design enviornment" class="hover">
-                        <p class="text">Screenshot of the design enviornment</p>
+                        <p class="text">Screenshot of the code</p>
                     </figure>
                 </li>
             </ul>
@@ -296,19 +296,19 @@
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/proj8_380x285-min.jpg" alt="Completed Pre-Amplifier Board v1" class="hover">
-                        <p class="text">Completed Pre-Amplifier Board v1</p>
+                        <p class="text">Completed Pre-Amplifier Board</p>
                     </figure>
                 </li>
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/proj7_380x285-min.jpg" alt="Completed Amplifier Board in enclosure" class="hover">
-                        <p class="text">Completed Amplifier Board in enclosure</p>
+                        <p class="text">Completed Amplifier Board</p>
                     </figure>
                 </li>
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/spin_echo_380x285-min.jpg" alt="Completed Low Pass Filter Comparator" class="hover">
-                        <p class="text">Completed Low Pass Filter Comparator</p>
+                        <p class="text">Completed Low Pass Filter</p>
                     </figure>
                 </li>
                 <li>
