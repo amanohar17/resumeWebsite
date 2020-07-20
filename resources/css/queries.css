@@ -161,8 +161,8 @@
 
     
     header {
-        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/IMG_0330-min.JPG);
-        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/IMG_0330-min.JPG);
+        background-image: -webkit-linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/IMG_0330-min_480x.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.7)), url(img/IMG_0330-min_480x.jpg);
         background-size: cover;
         background-position: center;
         background-attachment: fixed;
