@@ -255,7 +255,7 @@
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/schSE_800x600_380x285-min.png" alt="Schematic of Low Pass Filter Comparator" class="hover">
-                        <p class="text">Schematic of Low Pass Filter</p>
+                        <p class="text">Schematic of Low Pass Filter Comparator</p>
                     </figure>
                 </li>
                 <li>
@@ -275,19 +275,19 @@
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/proj3_380x285-min.png" alt="Amplifier Board layout for mini MRI" class="hover">
-                        <p class="text">Amplifier Board layout for mini MRI</p>
+                        <p class="text">Amplifier Board layout used in mini MRI</p>
                     </figure>
                 </li>
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/proj5_1_380x285-min.png" alt="Low Pass Filter Comparator layout" class="hover">
-                        <p class="text">Low Pass Filter layout</p>
+                        <p class="text">Low Pass Filter Comparator layout</p>
                     </figure>
                 </li>
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/kds_380x285-min.png" alt="Screenshot of the design enviornment" class="hover">
-                        <p class="text">Screenshot of the code</p>
+                        <p class="text">Screenshot of the code enviornment</p>
                     </figure>
                 </li>
             </ul>
@@ -308,13 +308,13 @@
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/spin_echo_380x285-min.jpg" alt="Completed Low Pass Filter Comparator" class="hover">
-                        <p class="text">Completed Low Pass Filter</p>
+                        <p class="text">Completed Low Pass Filter Comparator</p>
                     </figure>
                 </li>
                 <li>
                     <figure class="project-photo" id="wrapper">
                         <img src="resources/img/test_800x600_380x285-min.png" alt="Example diagnostic test output for RAM" class="hover">
-                        <p class="text">Example diagnostic test output for RAM</p>
+                        <p class="text">Example diagnostic test output for EEPROM functionality</p>
                     </figure>
                 </li>
             </ul>

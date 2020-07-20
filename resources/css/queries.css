@@ -281,6 +281,9 @@
     .text{
         font-size: 20%;
     }
+    #wrapper:hover .text {
+        visibility:hidden;
+        }
 }
 
 
