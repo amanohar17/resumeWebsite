@@ -14,6 +14,7 @@
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "resumeWebsite"
+		"liveServer.settings.multiRootWorkspaceName": "resumeWebsite",
+		"liveServer.settings.port": 5501
 	}
 }

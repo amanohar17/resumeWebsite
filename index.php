@@ -62,7 +62,7 @@
         </nav>
         <div class="hero-text-box">
             <h1>Ajay Manohar</h1>
-            <h4>Engineer</h4>
+            <h4>Engineer-A person</h4>
         </div>
 
     </header>
