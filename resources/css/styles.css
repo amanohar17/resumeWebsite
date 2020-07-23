@@ -333,6 +333,7 @@ header {
     height: 285px;
     width: auto;
     float: right;
+    border-radius: 50%;
 }
 
 .col1 {

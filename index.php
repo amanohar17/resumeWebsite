@@ -49,7 +49,7 @@
     <header>
         <nav>
             <div class="row">
-                <img src="resources/img/logoA.png" alt="Omnifood Logo" class="logo-black">
+                <img src="resources/img/logoA.png" alt="Logo-Ajay" class="logo-black">
                 <ul class="main-nav js--main-nav">
                     <li><a href="#about">About</a></li>
                     <li><a href="#experience">Experience</a></li>
@@ -59,8 +59,6 @@
                 </ul>
                 <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
             </div>
-
-
         </nav>
         <div class="hero-text-box">
             <h1>Ajay Manohar</h1>
