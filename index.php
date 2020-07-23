@@ -82,8 +82,8 @@
                     In my free time I enjoy doing freelance web design, photography, am an avid soccer fan and car enthusiast. Below you can
                     find links to my current resume as well as a design portfolio with some of my engineering projects.
                     <br><br>
-                    If you need to get in contact with me or want to pick my brain about basically anything please feel free to connect with me
-                    through any of the social links below. If you want a website built, feel free to message me on any of these platforms or send
+                    If you need to get in contact with me please feel free to connect with me through any of the social links below. 
+                    If you want a website built, feel free to message me on any of these platforms or send
                     me an email using the form at the bottom of the page!
                 </p>
             </div>
