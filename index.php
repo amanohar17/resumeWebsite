@@ -8,7 +8,9 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
-    <meta name="description" content="My name is Ajay, I am an engineer, and this is a collection of my work">
+    <meta name="description" content="My name is Ajay Manohar, I am an currently an engineer at Saint-Gobain and this is a collection of my work. Please feel free to contac me if you are interested in a website!">
+
+    <meta name="keywords" content="engineer,saint-gobain,Ajay Manohar,WPI,Ajay,software,electrical,ajay manohar,resume,portfolio">
 
     <link rel="stylesheet" type="text/css" href="vendors/css/normalize.css">
     <link rel="stylesheet" type="text/css" href="vendors/css/grid.css">
@@ -53,8 +55,10 @@
                 <ul class="main-nav js--main-nav">
                     <li><a href="#about">About</a></li>
                     <li><a href="#experience">Experience</a></li>
+                    <li><a href="#pub">Publications</a></li>
                     <li><a href="#projects">Projects</a></li>
                     <li><a href="#form">Contact</a></li>
+
 
                 </ul>
                 <a class="mobile-nav-icon js--nav-icon"><i class="ion-navicon-round"></i></a>
@@ -231,6 +235,22 @@
         </div>
     </section>
 
+    <section class="pub" id="pub">
+        <div class="row">
+            <h2>Publications</h2>
+        </div>
+        <div class="row">
+            <div class="col span-1-of-2">
+                    <iframe class= media height=315 width=560 src="https://www.youtube.com/embed/w6OQ4J-6a1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <embed  class=media src="/resources/files/EduLink Integrating ESD into Namibian Secondary School Curricula.pdf" type="application/pdf"height=315 width=560 >
+            </div>
+            <div class="col span-1-of-2">
+                     <embed  class="media" src="/resources/files/MQP-Poster.pdf" type="application/pdf" height=315 width=560>
+                     <embed  class="media" src="/resources/files/Active Telepresence Assistance for Supervisory Control A User St.pdf" type="application/pdf" height=315 width=560>
+            </div>
+        </div>
+    </section>
+
     <section class="section-projects" id="projects">
         <div class="row">
             <h2>Projects</h2>
@@ -318,15 +338,15 @@
             </ul>
         </section>
     </section>
-    
+
     <section class="section-form" id="form">
         <div class="row">
             <h2 class="bot">I'm happy to hear from you</h2>
         </div>
         <div class="row">
             <form method="post" action="mailer.php" class="contact-form">
-                
-                <div class="row">
+
+		<div class="row">
                     <?php
                      if($_GET['success']==1){
                         echo "<div class=\"form-messages success\">Thank you! Your message has been sent!</div>";
