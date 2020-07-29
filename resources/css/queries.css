@@ -284,7 +284,11 @@
     }
     #wrapper:hover .text {
         visibility:hidden;
-        }
+    }
+
+    .publications{
+        visibility: hidden;
+    }
     
 }
 
