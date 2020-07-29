@@ -285,6 +285,11 @@
     #wrapper:hover .text {
         visibility:hidden;
         }
+    
+    .media{
+        height: 160;
+        width: 300;
+    }
 }
 
 
