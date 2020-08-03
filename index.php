@@ -92,7 +92,7 @@
                 </p>
             </div>
             <div class="ab">
-                <a class="btn btn-full js--scroll-to-plans" href="resources/files/updatedResume.pdf" target="_blank">Resume</a>
+                <a class="btn btn-full js--scroll-to-plans" href="resources/files/Ajay's Resume, 7-31-20.pdf" target="_blank">Resume</a>
                 <a class="btn btn-ghost js--scroll-to-start" href="resources/files/portfolio.pdf" target="_blank">Portfolio</a>
             </div>
         </div>
