@@ -240,13 +240,15 @@
             <h2>Publications</h2>
         </div>
         <div class="row">
-            <div class="col span-1-of-2">
+        <div class="col span-1-of-2">
                     <iframe class= media height=315 width=560 src="https://www.youtube.com/embed/w6OQ4J-6a1U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                    <embed  class=media src="/resources/files/EduLink Integrating ESD into Namibian Secondary School Curricula.pdf" type="application/pdf"height=315 width=560 >
+                    <embed  class=media src="/resources/files/1pg-esd.pdf" type="application/pdf"height=315 width=560 >
+                    <a href="https://digitalcommons.wpi.edu/iqp-all/5174/" target="_blank">Link to full paper</a> 
             </div>
             <div class="col span-1-of-2">
                      <embed  class="media" src="/resources/files/MQP-Poster.pdf" type="application/pdf" height=315 width=560>
-                     <embed  class="media" src="/resources/files/Active Telepresence Assistance for Supervisory Control A User St.pdf" type="application/pdf" height=315 width=560>
+                     <embed  class="media" src="/resources/files/1pg-mqp.pdf" type="application/pdf" height=315 width=560>
+                     <a href="https://digitalcommons.wpi.edu/mqp-all/7283/" target="_blank">Link to full paper</a>
             </div>
         </div>
     </section>
